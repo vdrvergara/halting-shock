@@ -4,7 +4,7 @@
     "version" : "1.0",
     "title" : "Greeting REST API"
   },
-  "host" : "halting-shock-demo.apps.cluster-d0cc.d0cc.sandbox825.opentlc.com",
+  "host" : "http://halting-shock-demo.apps.cluster-d0cc.d0cc.sandbox825.opentlc.com",
   "basePath" : "/camel/",
   "tags" : [ {
     "name" : "greetings",
